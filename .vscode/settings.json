@@ -1,0 +1,16 @@
+{
+    "chat.mcp.serverSampling": {
+        "MCP-Server/.vscode/mcp.json: username-local": {
+            "allowedModels": [
+                "copilot/auto",
+                "copilotcli/claude-haiku-4.5",
+                "copilotcli/gpt-4.1",
+                "copilotcli/gpt-5-mini",
+                "copilotcli/gpt-5.6-luna",
+                "copilotcli/gpt-6-luna",
+                "copilotcli/kimi-k3",
+                "copilotcli/mai-code-1.1-flash"
+            ]
+        }
+    }
+}
