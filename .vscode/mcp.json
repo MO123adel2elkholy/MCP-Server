@@ -10,6 +10,17 @@
       "env": {
         "PYTHONPATH": "G:\\MCP-Server\\src"
       }
+    },
+    "database-local": {
+      "type": "stdio",
+      "command": "G:\\MCP-Server\\.venv\\Scripts\\python.exe",
+      "args": [
+        "G:\\MCP-Server\\src\\mcp_server\\database_mcp_server.py"
+      ],
+      "cwd": "G:\\MCP-Server",
+      "env": {
+        "PYTHONPATH": "G:\\MCP-Server\\src"
+      }
     }
   }
 }
